@@ -1,11 +1,11 @@
-# Car-App-REST-API
+# Car-App-REST-API <br>
 Simple Car application Rest API for Crud Operation
 Car CRUD Application
 This Car CRUD Application allows users to create, read, update, and delete car information. It's built with Java, Spring Boot, MySQL, Hibernate, IDE used is Eclipse"
 
 Features
-Add new cars to the database
-View a list of all cars
+Add new cars to the database<br>
+View a list of all cars<br>
 Update car details by specific field
 Update car details
 Delete All cars from the database
