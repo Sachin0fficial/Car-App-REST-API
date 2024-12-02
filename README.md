@@ -21,7 +21,7 @@ Installation
 Step-by-step instructions on how to set up your project locally. For instance:
 <br>
 
-Clone the repository: git clone https://github.com/yourusername/car-crud-app.git
+Clone the repository: git clone https://github.com/Sachin0fficial/Car-App-REST-API.git
 <br>
 Navigate to the project directory: cd car-crud-app
 <br>
